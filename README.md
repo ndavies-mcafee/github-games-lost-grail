@@ -17,4 +17,4 @@ You can play the game at: https://githubschool.github.io/github-games-lost-grail
 
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
 
-todo See if TODOs app works
+TODO See if todos app works
